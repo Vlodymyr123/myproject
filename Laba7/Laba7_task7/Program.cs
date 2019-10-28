@@ -24,7 +24,7 @@ namespace Laba7_task7
             {
                 case 1:
                     {
-                       /* string[] arr = new string[5];
+                        string[] arr = new string[5];
                         Console.WriteLine("Input anything(you can input 5 words):");
                         for (int i = 0; i < arr.Length; i++)
                         {
@@ -35,7 +35,7 @@ namespace Laba7_task7
                         for (int i = 0; i < arr.Length; i++)
                         {
                             Console.Write(arr[i] + " ");
-                        }*/
+                        }
                         break;
                     }
                 case 2:
