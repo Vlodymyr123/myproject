@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1A1B34AC-CAFE-4B68-9BB9-78F28E6D07F2}</ProjectGuid>
+    <ProjectGuid>{1EBD9FD8-17A1-47C6-9504-760A3FA8ECBA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Lab1Calculator</RootNamespace>
-    <AssemblyName>Lab1Calculator</AssemblyName>
+    <RootNamespace>Sem2_Lab1_Calculator</RootNamespace>
+    <AssemblyName>Sem2_Lab1_Calculator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

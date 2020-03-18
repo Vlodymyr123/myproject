@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab1Calculator.Properties
+namespace Sem2_Lab1_Calculator.Properties
 {
 
 

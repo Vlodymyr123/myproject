@@ -1,4 +1,4 @@
-﻿namespace Lab1Calculator
+﻿namespace Sem2_Lab1_Calculator
 {
     partial class Form1
     {

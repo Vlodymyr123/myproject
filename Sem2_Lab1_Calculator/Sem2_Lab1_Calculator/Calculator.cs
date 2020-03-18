@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab1Calculator
+namespace Sem2_Lab1_Calculator
 {
     class Calculator : Button
     {
@@ -162,27 +162,27 @@ namespace Lab1Calculator
                 case "-":
                 case "*":
                 case "/":
-                    if(tex.Text != "")
+                    if (tex.Text != "")
                     {
                         operations_way = false;
                         first_number = float.Parse(tex.Text);
                         tex.Clear();
 
-                        switch((sender as Button).Text)
+                        switch ((sender as Button).Text)
                         {
                             case "+": operation = 1; break;
                             case "-": operation = 2; break;
                             case "*": operation = 3; break;
                             case "/": operation = 4; break;
                         }
-                        
+
                     }
-                       break;
+                    break;
                 case "=":
                     {
                         if (tex.Text != "")
                         {
-                            if(!operations_way)
+                            if (!operations_way)
                                 second_number = float.Parse(tex.Text);
 
                             switch (operation)
@@ -234,7 +234,7 @@ namespace Lab1Calculator
                             }
                         }
                     }
-                        break;
+                    break;
                 case ",":
                     {
                         if (!tex.Text.Contains(","))

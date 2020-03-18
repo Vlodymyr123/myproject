@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("Lab1Calculator")]
+[assembly: AssemblyTitle("Sem2_Lab1_Calculator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lab1Calculator")]
+[assembly: AssemblyProduct("Sem2_Lab1_Calculator")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("1a1b34ac-cafe-4b68-9bb9-78f28e6d07f2")]
+[assembly: Guid("1ebd9fd8-17a1-47c6-9504-760a3fa8ecba")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
