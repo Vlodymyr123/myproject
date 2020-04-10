@@ -85,14 +85,6 @@ namespace Sem2_Lab3
                 all_buttons[i].Text = numbers[i].ToString();
         }
 
-        private void AllClicks()
-        {
-            for (int i = 0; i < all_buttons.Count; i++)
-            {
-                all_buttons[i].Click += new EventHandler(ButtonClick);
-            }
-        }
-
         private void ButtonClick(object sender, EventArgs e)
         {
             if((sender as Button).Text == order.ToString())
