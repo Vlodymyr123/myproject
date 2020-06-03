@@ -143,7 +143,7 @@
             this.ClearA.Name = "ClearA";
             this.ClearA.Size = new System.Drawing.Size(88, 35);
             this.ClearA.TabIndex = 142;
-            this.ClearA.Text = "Очистить";
+            this.ClearA.Text = "Clear";
             this.ClearA.UseVisualStyleBackColor = true;
             this.ClearA.Click += new System.EventHandler(this.ClearA_Click);
             // 
@@ -153,7 +153,7 @@
             this.randomA.Name = "randomA";
             this.randomA.Size = new System.Drawing.Size(88, 35);
             this.randomA.TabIndex = 143;
-            this.randomA.Text = "Заполнить случайно";
+            this.randomA.Text = "Random numbers";
             this.randomA.UseVisualStyleBackColor = true;
             this.randomA.Click += new System.EventHandler(this.randomA_Click);
             // 
@@ -163,7 +163,7 @@
             this.randomB.Name = "randomB";
             this.randomB.Size = new System.Drawing.Size(88, 35);
             this.randomB.TabIndex = 145;
-            this.randomB.Text = "Заполнить случайно";
+            this.randomB.Text = "Random numbers";
             this.randomB.UseVisualStyleBackColor = true;
             this.randomB.Click += new System.EventHandler(this.randomB_Click);
             // 
@@ -173,7 +173,7 @@
             this.ClearB.Name = "ClearB";
             this.ClearB.Size = new System.Drawing.Size(88, 35);
             this.ClearB.TabIndex = 144;
-            this.ClearB.Text = "Очистить";
+            this.ClearB.Text = "Clear";
             this.ClearB.UseVisualStyleBackColor = true;
             this.ClearB.Click += new System.EventHandler(this.ClearB_Click);
             // 
@@ -183,7 +183,7 @@
             this.multiply_numberA.Name = "multiply_numberA";
             this.multiply_numberA.Size = new System.Drawing.Size(174, 30);
             this.multiply_numberA.TabIndex = 147;
-            this.multiply_numberA.Text = "Умножить Matrix A на число: ";
+            this.multiply_numberA.Text = "Multiply Matrix A by number: ";
             this.multiply_numberA.UseVisualStyleBackColor = true;
             this.multiply_numberA.Click += new System.EventHandler(this.multiply_numberA_Click);
             // 
@@ -207,7 +207,7 @@
             this.multiply_numberB.Name = "multiply_numberB";
             this.multiply_numberB.Size = new System.Drawing.Size(174, 30);
             this.multiply_numberB.TabIndex = 149;
-            this.multiply_numberB.Text = "Умножить Matrix B на число: ";
+            this.multiply_numberB.Text = "Multiply Matrix B by number: ";
             this.multiply_numberB.UseVisualStyleBackColor = true;
             this.multiply_numberB.Click += new System.EventHandler(this.multiply_numberB_Click);
             // 
@@ -224,7 +224,7 @@
             this.powA.Name = "powA";
             this.powA.Size = new System.Drawing.Size(174, 30);
             this.powA.TabIndex = 155;
-            this.powA.Text = "Возвести в степень Matrix A:";
+            this.powA.Text = "Raise MatrixA by the pow:";
             this.powA.UseVisualStyleBackColor = true;
             this.powA.Click += new System.EventHandler(this.powA_Click);
             // 
@@ -241,7 +241,7 @@
             this.powB.Name = "powB";
             this.powB.Size = new System.Drawing.Size(174, 30);
             this.powB.TabIndex = 157;
-            this.powB.Text = "Возвести в степень Matrix B:";
+            this.powB.Text = "Raise MatrixB by the pow:";
             this.powB.UseVisualStyleBackColor = true;
             this.powB.Click += new System.EventHandler(this.powB_Click);
             // 
@@ -252,7 +252,7 @@
             this.TransposeA.Name = "TransposeA";
             this.TransposeA.Size = new System.Drawing.Size(188, 32);
             this.TransposeA.TabIndex = 159;
-            this.TransposeA.Text = "Транспонировать Matrix A!";
+            this.TransposeA.Text = "Transpose Matrix A!";
             this.TransposeA.UseVisualStyleBackColor = true;
             this.TransposeA.Click += new System.EventHandler(this.TransposeA_Click);
             // 
@@ -263,7 +263,7 @@
             this.TransposeB.Name = "TransposeB";
             this.TransposeB.Size = new System.Drawing.Size(188, 32);
             this.TransposeB.TabIndex = 160;
-            this.TransposeB.Text = "Транспонировать Matrix B!";
+            this.TransposeB.Text = "Transpose Matrix B!";
             this.TransposeB.UseVisualStyleBackColor = true;
             this.TransposeB.Click += new System.EventHandler(this.TransposeB_Click);
             // 
@@ -274,7 +274,7 @@
             this.determinantB.Name = "determinantB";
             this.determinantB.Size = new System.Drawing.Size(188, 32);
             this.determinantB.TabIndex = 162;
-            this.determinantB.Text = "Определитель MatrixB!";
+            this.determinantB.Text = "Determinant MatrixB!";
             this.determinantB.UseVisualStyleBackColor = true;
             this.determinantB.Click += new System.EventHandler(this.determinantB_Click);
             // 
@@ -285,7 +285,7 @@
             this.determinantA.Name = "determinantA";
             this.determinantA.Size = new System.Drawing.Size(188, 32);
             this.determinantA.TabIndex = 161;
-            this.determinantA.Text = "Определитель MatrixA!";
+            this.determinantA.Text = "Determinant MatrixA!";
             this.determinantA.UseVisualStyleBackColor = true;
             this.determinantA.Click += new System.EventHandler(this.determinantA_Click);
             // 
