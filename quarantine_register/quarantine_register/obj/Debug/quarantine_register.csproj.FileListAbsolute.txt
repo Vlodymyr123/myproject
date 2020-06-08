@@ -1,0 +1,18 @@
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\bin\Debug\quarantine_register.exe.config
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\bin\Debug\quarantine_register.exe
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\bin\Debug\quarantine_register.pdb
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\obj\Debug\quarantine_register.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\obj\Debug\quarantine_register.Form1.resources
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\obj\Debug\quarantine_register.Properties.Resources.resources
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\obj\Debug\quarantine_register.csproj.GenerateResource.cache
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\obj\Debug\quarantine_register.exe
+C:\Users\Николай\source\repos\quarantine_register\quarantine_register\obj\Debug\quarantine_register.pdb
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\bin\Debug\quarantine_register.exe.config
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\bin\Debug\quarantine_register.exe
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\bin\Debug\quarantine_register.pdb
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\obj\Debug\quarantine_register.csprojAssemblyReference.cache
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\obj\Debug\quarantine_register.Form1.resources
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\obj\Debug\quarantine_register.Properties.Resources.resources
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\obj\Debug\quarantine_register.csproj.GenerateResource.cache
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\obj\Debug\quarantine_register.exe
+D:\Documents Vova\Nada comitut\myproject\quarantine_register\quarantine_register\obj\Debug\quarantine_register.pdb
