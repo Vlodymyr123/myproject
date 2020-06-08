@@ -1,0 +1,14 @@
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task7\bin\Debug\Laba7_task7.exe.config
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task7\bin\Debug\Laba7_task7.exe
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task7\bin\Debug\Laba7_task7.pdb
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task7\obj\Debug\Laba7_task7.csprojAssemblyReference.cache
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task7\obj\Debug\Laba7_task7.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task7\obj\Debug\Laba7_task7.exe
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task7\obj\Debug\Laba7_task7.pdb
+D:\Documents Vova\Nada comitut\myproject\Laba7\Laba7_task7\bin\Debug\Laba7_task7.exe.config
+D:\Documents Vova\Nada comitut\myproject\Laba7\Laba7_task7\bin\Debug\Laba7_task7.exe
+D:\Documents Vova\Nada comitut\myproject\Laba7\Laba7_task7\bin\Debug\Laba7_task7.pdb
+D:\Documents Vova\Nada comitut\myproject\Laba7\Laba7_task7\obj\Debug\Laba7_task7.csprojAssemblyReference.cache
+D:\Documents Vova\Nada comitut\myproject\Laba7\Laba7_task7\obj\Debug\Laba7_task7.csproj.CoreCompileInputs.cache
+D:\Documents Vova\Nada comitut\myproject\Laba7\Laba7_task7\obj\Debug\Laba7_task7.exe
+D:\Documents Vova\Nada comitut\myproject\Laba7\Laba7_task7\obj\Debug\Laba7_task7.pdb

@@ -1,0 +1,18 @@
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\bin\Debug\Sem2_Lab2.exe.config
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\bin\Debug\Sem2_Lab2.exe
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\bin\Debug\Sem2_Lab2.pdb
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.Properties.Resources.resources
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.csproj.GenerateResource.cache
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.exe
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.pdb
+C:\Users\Николай\source\repos\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.Form1.resources
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\bin\Debug\Sem2_Lab2.exe.config
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\bin\Debug\Sem2_Lab2.exe
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\bin\Debug\Sem2_Lab2.pdb
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.csprojAssemblyReference.cache
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.Form1.resources
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.Properties.Resources.resources
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.csproj.GenerateResource.cache
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.exe
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab2\Sem2_Lab2\obj\Debug\Sem2_Lab2.pdb

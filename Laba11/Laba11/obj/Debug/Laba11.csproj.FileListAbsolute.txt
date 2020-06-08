@@ -1,0 +1,12 @@
+C:\Users\Дом\source\repos\Laba11\Laba11\bin\Debug\Laba11.exe.config
+C:\Users\Дом\source\repos\Laba11\Laba11\bin\Debug\Laba11.exe
+C:\Users\Дом\source\repos\Laba11\Laba11\bin\Debug\Laba11.pdb
+C:\Users\Дом\source\repos\Laba11\Laba11\obj\Debug\Laba11.csprojAssemblyReference.cache
+C:\Users\Дом\source\repos\Laba11\Laba11\obj\Debug\Laba11.exe
+C:\Users\Дом\source\repos\Laba11\Laba11\obj\Debug\Laba11.pdb
+C:\Users\Дом\Desktop\Laba11\Laba11\bin\Debug\Laba11.exe.config
+C:\Users\Дом\Desktop\Laba11\Laba11\bin\Debug\Laba11.exe
+C:\Users\Дом\Desktop\Laba11\Laba11\bin\Debug\Laba11.pdb
+C:\Users\Дом\Desktop\Laba11\Laba11\obj\Debug\Laba11.csprojAssemblyReference.cache
+C:\Users\Дом\Desktop\Laba11\Laba11\obj\Debug\Laba11.exe
+C:\Users\Дом\Desktop\Laba11\Laba11\obj\Debug\Laba11.pdb

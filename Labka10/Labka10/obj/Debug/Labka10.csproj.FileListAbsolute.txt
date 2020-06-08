@@ -1,0 +1,6 @@
+C:\Users\Дом\source\repos\Labka10\Labka10\bin\Debug\Labka10.exe.config
+C:\Users\Дом\source\repos\Labka10\Labka10\bin\Debug\Labka10.exe
+C:\Users\Дом\source\repos\Labka10\Labka10\bin\Debug\Labka10.pdb
+C:\Users\Дом\source\repos\Labka10\Labka10\obj\Debug\Labka10.csprojAssemblyReference.cache
+C:\Users\Дом\source\repos\Labka10\Labka10\obj\Debug\Labka10.exe
+C:\Users\Дом\source\repos\Labka10\Labka10\obj\Debug\Labka10.pdb

@@ -1,0 +1,7 @@
+C:\Users\Дом\source\repos\Laba8_task1\Laba8_task1\bin\Debug\Laba8_task1.exe.config
+C:\Users\Дом\source\repos\Laba8_task1\Laba8_task1\bin\Debug\Laba8_task1.exe
+C:\Users\Дом\source\repos\Laba8_task1\Laba8_task1\bin\Debug\Laba8_task1.pdb
+C:\Users\Дом\source\repos\Laba8_task1\Laba8_task1\obj\Debug\Laba8_task1.csprojAssemblyReference.cache
+C:\Users\Дом\source\repos\Laba8_task1\Laba8_task1\obj\Debug\Laba8_task1.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\Laba8_task1\Laba8_task1\obj\Debug\Laba8_task1.exe
+C:\Users\Дом\source\repos\Laba8_task1\Laba8_task1\obj\Debug\Laba8_task1.pdb

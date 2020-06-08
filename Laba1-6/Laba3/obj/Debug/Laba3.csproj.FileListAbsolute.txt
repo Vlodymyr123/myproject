@@ -1,0 +1,6 @@
+C:\Users\Дом\source\repos\Laba1\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\Дом\source\repos\Laba1\Laba3\bin\Debug\Laba3.exe
+C:\Users\Дом\source\repos\Laba1\Laba3\bin\Debug\Laba3.pdb
+C:\Users\Дом\source\repos\Laba1\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\Laba1\Laba3\obj\Debug\Laba3.exe
+C:\Users\Дом\source\repos\Laba1\Laba3\obj\Debug\Laba3.pdb

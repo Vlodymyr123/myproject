@@ -1,0 +1,7 @@
+C:\Users\Дом\source\repos\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Дом\source\repos\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\Дом\source\repos\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Дом\source\repos\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+C:\Users\Дом\source\repos\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\Дом\source\repos\Laba1\Laba1\obj\Debug\Laba1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\bin\Debug\quarantine_files.exe.config
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\bin\Debug\quarantine_files.exe
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\bin\Debug\quarantine_files.pdb
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\obj\Debug\quarantine_files.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\obj\Debug\quarantine_files.Form1.resources
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\obj\Debug\quarantine_files.Properties.Resources.resources
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\obj\Debug\quarantine_files.csproj.GenerateResource.cache
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\obj\Debug\quarantine_files.exe
+C:\Users\Николай\source\repos\quarantine_files\quarantine_files\obj\Debug\quarantine_files.pdb

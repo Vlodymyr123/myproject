@@ -1,0 +1,20 @@
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\bin\Release\Kyrsova.exe.config
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\bin\Release\Kyrsova.exe
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\bin\Release\Kyrsova.pdb
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\obj\Release\Kyrsova.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\obj\Release\Kyrsova.Form1.resources
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\obj\Release\Kyrsova.Properties.Resources.resources
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\obj\Release\Kyrsova.csproj.GenerateResource.cache
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\obj\Release\Kyrsova.exe
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\obj\Release\Kyrsova.pdb
+C:\Users\Николай\source\repos\Kyrsova\Kyrsova\obj\Release\Kyrsova.Result.resources
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\bin\Release\Kyrsova.exe.config
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\bin\Release\Kyrsova.exe
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\bin\Release\Kyrsova.pdb
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\obj\Release\Kyrsova.csprojAssemblyReference.cache
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\obj\Release\Kyrsova.Form1.resources
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\obj\Release\Kyrsova.Properties.Resources.resources
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\obj\Release\Kyrsova.Result.resources
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\obj\Release\Kyrsova.csproj.GenerateResource.cache
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\obj\Release\Kyrsova.exe
+D:\Documents Vova\Nada comitut\myproject\Kyrsova\Kyrsova\obj\Release\Kyrsova.pdb

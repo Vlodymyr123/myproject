@@ -1,0 +1,6 @@
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task5\bin\Debug\Laba7_task5.exe.config
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task5\bin\Debug\Laba7_task5.exe
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task5\bin\Debug\Laba7_task5.pdb
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task5\obj\Debug\Laba7_task5.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task5\obj\Debug\Laba7_task5.exe
+C:\Users\Дом\source\repos\Laba7_task1-4\Laba7_task5\obj\Debug\Laba7_task5.pdb

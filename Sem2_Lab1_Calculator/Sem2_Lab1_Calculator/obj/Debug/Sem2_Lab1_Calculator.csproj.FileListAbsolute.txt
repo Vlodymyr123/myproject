@@ -1,0 +1,16 @@
+C:\Users\Николай\source\repos\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.csprojAssemblyReference.cache
+C:\Users\Николай\source\repos\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.Properties.Resources.resources
+C:\Users\Николай\source\repos\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.csproj.GenerateResource.cache
+C:\Users\Николай\source\repos\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\bin\Debug\Sem2_Lab1_Calculator.exe.config
+C:\Users\Николай\source\repos\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\bin\Debug\Sem2_Lab1_Calculator.exe
+C:\Users\Николай\source\repos\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\bin\Debug\Sem2_Lab1_Calculator.pdb
+C:\Users\Николай\source\repos\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.exe
+C:\Users\Николай\source\repos\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.pdb
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\bin\Debug\Sem2_Lab1_Calculator.exe.config
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\bin\Debug\Sem2_Lab1_Calculator.exe
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\bin\Debug\Sem2_Lab1_Calculator.pdb
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.csprojAssemblyReference.cache
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.Properties.Resources.resources
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.csproj.GenerateResource.cache
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.exe
+D:\Documents Vova\Nada comitut\myproject\Sem2_Lab1_Calculator\Sem2_Lab1_Calculator\obj\Debug\Sem2_Lab1_Calculator.pdb
